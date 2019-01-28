@@ -17,3 +17,5 @@ git reset HEAD filename    (撤销已提交的某个文件)
 
 
 修改 git 名字提交
+
+克隆后提交
