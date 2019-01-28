@@ -13,3 +13,7 @@ git reset HEAD filename    (撤销已提交的某个文件)
 
 
 远程关联后提交
+
+
+
+修改 git 名字提交
